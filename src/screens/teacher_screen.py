@@ -223,7 +223,7 @@ def teacher_tab_manage_subjects():
                 if st.button(f"Share Code: {sub['name']}", key=f"share_{sub['subject_code']}", icon=":material/share:"):
                     share_subject_dialog(sub['name'], sub['subject_code'])
                 st.space()
-    
+
             subject_card(
                 name = sub['name'],
                 code = sub['subject_code'],
