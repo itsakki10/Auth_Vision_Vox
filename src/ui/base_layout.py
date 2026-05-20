@@ -326,7 +326,8 @@ text-align:center;
 
 }
 
-
+h3{
+    color:#131720!important;}
 
 /* text */
 
