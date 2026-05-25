@@ -85,20 +85,6 @@ The system provides a seamless experience for students and teachers with role-ba
 
 ## 🚀 Live Demo
 
-<p align="center">
-
-<a href="https://vision-vox-landing-page.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Visit_Landing_Page-7C3AED?style=for-the-badge">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://visionvox-main.streamlit.app/">
-<img src="https://img.shields.io/badge/🤖_Launch_AI_System-3B82F6?style=for-the-badge">
-</a>
-
-</p>
-
 ### 🌐 Landing Page
 
 Modern UI showcase and complete product overview:
